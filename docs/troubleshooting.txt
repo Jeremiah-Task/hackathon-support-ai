@@ -1,0 +1,54 @@
+TASK SYSTEMS LTD - TROUBLESHOOTING GUIDE
+
+Here are solutions to common issues with TaskMaster Pro and other Task Systems products.
+
+SOFTWARE ISSUES
+
+1. Application won't start / crashes on launch
+   - Ensure your system meets the minimum requirements.
+   - Update your graphics drivers and OS.
+   - Reinstall the application: first uninstall, then download the latest version from our website.
+   - Check if antivirus software is blocking the app; add an exception if needed.
+
+2. License key not accepted
+   - Verify you entered the key correctly (no spaces, case-sensitive).
+   - Ensure the key is for the correct product version.
+   - If you purchased through a reseller, contact them for verification.
+   - Contact support with your order number for assistance.
+
+3. Sync errors with calendar
+   - Check your internet connection.
+   - Re-authenticate your calendar account in Settings > Integrations.
+   - Ensure you have granted necessary permissions.
+
+4. Task reminders not showing
+   - Check that notifications are enabled in the app and your OS.
+   - Verify that the task has a valid due date and reminder set.
+   - Restart the application.
+
+HARDWARE ISSUES (for Task Systems devices)
+
+1. Device not powering on
+   - Ensure the power cable is securely connected.
+   - Try a different outlet.
+   - If using a battery, check if it needs charging or replacement.
+
+2. No display / blank screen
+   - Check all video cable connections.
+   - Test with a different monitor if possible.
+   - Restart the device.
+
+3. Unresponsive or frozen
+   - Press and hold the power button for 10 seconds to force shutdown, then restart.
+   - Check for overheating; ensure vents are clear.
+   - Run a diagnostic if available.
+
+GENERAL TIPS
+- Always keep your software and firmware up to date.
+- Back up important data regularly.
+- For complex issues, contact our support team with detailed information: error messages, steps you've tried, and your system specs.
+
+CONTACT SUPPORT
+- Online: support.tasksystems.com
+- Email: techsupport@tasksystems.com
+- Phone: +1-800-555-0123 (Mon-Fri, 9am-5pm EST)

@@ -1,0 +1,38 @@
+TASK SYSTEMS LTD - PRODUCT GUIDE: TASKMASTER PRO SOFTWARE
+
+Welcome to TaskMaster Pro, your all-in-one productivity solution. This guide will help you get started and make the most of its features.
+
+SYSTEM REQUIREMENTS
+- OS: Windows 10/11, macOS 12 or later, or Linux (Ubuntu 20.04+)
+- RAM: 8 GB minimum (16 GB recommended)
+- Storage: 500 MB free space
+- Internet connection for activation and updates
+
+INSTALLATION
+1. Download the installer from our website after purchase.
+2. Run the installer and follow the on-screen instructions.
+3. Launch TaskMaster Pro and enter your license key (sent via email).
+4. Complete the initial setup wizard.
+
+KEY FEATURES
+- Task Management: Create, organize, and prioritize tasks with due dates and reminders.
+- Project Dashboard: View all projects in a customizable dashboard with progress tracking.
+- Collaboration Tools: Share tasks and projects with team members, assign roles, and comment.
+- Calendar Integration: Sync with Google Calendar, Outlook, or Apple Calendar.
+- Reporting: Generate reports on productivity, time spent, and task completion.
+
+QUICK START GUIDE
+1. Create a Project: Click "New Project", name it, and set a deadline.
+2. Add Tasks: Within a project, click "Add Task" and enter details. You can assign tasks to team members.
+3. Set Reminders: For each task, set a reminder to get notified via email or in-app.
+4. Invite Team: Go to project settings, click "Invite Members", and enter email addresses.
+5. Track Progress: Use the dashboard to see completed tasks and pending items.
+
+TIPS & TRICKS
+- Use keyboard shortcuts: Ctrl+N (new task), Ctrl+S (save), Ctrl+F (search).
+- Customize your view by filtering tasks by priority, due date, or assignee.
+- Enable dark mode in Settings > Appearance.
+- Regularly back up your data via Settings > Export Data.
+
+SUPPORT
+For additional help, visit our online knowledge base at support.tasksystems.com or contact our support team.
